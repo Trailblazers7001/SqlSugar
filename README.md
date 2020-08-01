@@ -1,4 +1,4 @@
-# SqlSugar 5.X  API 
+# SqlSugar 5.X  APII
 
 世界上最简单的ORM，只需要配置连接字符串，F5运行控制台自动建库建表运行DEMO
 
